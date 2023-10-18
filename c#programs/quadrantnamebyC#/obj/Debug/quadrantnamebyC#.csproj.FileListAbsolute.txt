@@ -1,0 +1,8 @@
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\quadrantnamebyC#\obj\Debug\quadrantnamebyC#.csproj.AssemblyReference.cache
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\quadrantnamebyC#\obj\Debug\quadrantnamebyC#.csproj.SuggestedBindingRedirects.cache
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\quadrantnamebyC#\obj\Debug\quadrantnamebyC#.csproj.CoreCompileInputs.cache
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\quadrantnamebyC#\bin\Debug\quadrantnamebyC#.exe.config
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\quadrantnamebyC#\bin\Debug\quadrantnamebyC#.exe
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\quadrantnamebyC#\bin\Debug\quadrantnamebyC#.pdb
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\quadrantnamebyC#\obj\Debug\quadrantnamebyC#.exe
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\quadrantnamebyC#\obj\Debug\quadrantnamebyC#.pdb

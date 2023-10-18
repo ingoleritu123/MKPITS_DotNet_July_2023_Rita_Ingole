@@ -1,0 +1,27 @@
+<html>
+    <script language="javascript">
+        function area()
+        {
+            
+            var rad=document.getElementById("t1").value;
+            var ans=3.14*rad*rad;
+            document.getElementById("result").innerHTML="area of circle =" + ans;
+
+        }
+        function cirm()
+        {
+            
+            var rad=document.getElementById("t1").value;
+            var ans=2*3.14*rad*rad;
+            document.getElementById("result").innerHTML="circumfarance of circle =" + ans;
+
+        }
+    </script>
+    <form name="f1">
+        Enter radius : <input type="text" id="t1"/><br><br>
+        <input type="button" value="area" onclick="area();"/>
+        <input type="button" value="cirm" onclick="cirm();"/><br><br>
+        <span id="result">--</span>
+
+    </form>
+</html>

@@ -1,0 +1,8 @@
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\hellowithnameeinC#\bin\Debug\hellowithnameeinC#.exe.config
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\hellowithnameeinC#\bin\Debug\hellowithnameeinC#.exe
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\hellowithnameeinC#\bin\Debug\hellowithnameeinC#.pdb
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\hellowithnameeinC#\obj\Debug\hellowithnameeinC#.csproj.AssemblyReference.cache
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\hellowithnameeinC#\obj\Debug\hellowithnameeinC#.csproj.SuggestedBindingRedirects.cache
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\hellowithnameeinC#\obj\Debug\hellowithnameeinC#.csproj.CoreCompileInputs.cache
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\hellowithnameeinC#\obj\Debug\hellowithnameeinC#.exe
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\hellowithnameeinC#\obj\Debug\hellowithnameeinC#.pdb

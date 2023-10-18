@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quadraticEqbyC#", "quadraticEqbyC#.csproj", "{5EEF99CB-814E-4D75-A78C-C3E21CAE2ACB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EEF99CB-814E-4D75-A78C-C3E21CAE2ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EEF99CB-814E-4D75-A78C-C3E21CAE2ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EEF99CB-814E-4D75-A78C-C3E21CAE2ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EEF99CB-814E-4D75-A78C-C3E21CAE2ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59484631-9B06-42B6-9316-B553B68B4606}
+	EndGlobalSection
+EndGlobal

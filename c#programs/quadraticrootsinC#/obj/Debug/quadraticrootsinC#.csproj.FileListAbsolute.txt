@@ -1,0 +1,8 @@
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\quadraticrootsinC#\bin\Debug\quadraticrootsinC#.exe.config
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\quadraticrootsinC#\bin\Debug\quadraticrootsinC#.exe
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\quadraticrootsinC#\bin\Debug\quadraticrootsinC#.pdb
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\quadraticrootsinC#\obj\Debug\quadraticrootsinC#.csproj.AssemblyReference.cache
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\quadraticrootsinC#\obj\Debug\quadraticrootsinC#.csproj.SuggestedBindingRedirects.cache
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\quadraticrootsinC#\obj\Debug\quadraticrootsinC#.csproj.CoreCompileInputs.cache
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\quadraticrootsinC#\obj\Debug\quadraticrootsinC#.exe
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\quadraticrootsinC#\obj\Debug\quadraticrootsinC#.pdb

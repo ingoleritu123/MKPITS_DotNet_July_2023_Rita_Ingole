@@ -1,0 +1,8 @@
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\areainC#\bin\Debug\areainC#.exe.config
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\areainC#\bin\Debug\areainC#.exe
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\areainC#\bin\Debug\areainC#.pdb
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\areainC#\obj\Debug\areainC#.csproj.AssemblyReference.cache
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\areainC#\obj\Debug\areainC#.csproj.SuggestedBindingRedirects.cache
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\areainC#\obj\Debug\areainC#.csproj.CoreCompileInputs.cache
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\areainC#\obj\Debug\areainC#.exe
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\areainC#\obj\Debug\areainC#.pdb

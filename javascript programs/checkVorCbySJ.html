@@ -1,0 +1,44 @@
+<html>
+    <head>
+        <script langiage="javascript">
+            function display()
+            {
+             var ch=document.getElementById("t1").value;
+             var result;
+
+             switch(ch)
+             {
+                case "a":
+                case "e":
+                case "i":
+                case "o":
+                case "u":
+                result="It is vovels";
+                break;
+                default:
+                result="It is consonent";
+                break;
+                
+
+             }
+
+             document.getElementById("result").innerHTML="Answer = "+result;
+            }
+        </script>
+
+    </head>
+    <body>
+        <h1 align="center">MKPITS SOLUTION</h1>
+        <hr>
+        <center>
+            <form name="f1" style="width: 50%;">
+                <fieldset>
+                    <legend>calculationl</legend>
+                    Enter character : <input type="text" id="t1"/><br><br>
+                    <input type="button" value="result" onclick="display();"/><br><br>
+                    <span id="result">-</span>
+                </fieldset>
+            </form>
+        </center>
+    </body>
+</html>

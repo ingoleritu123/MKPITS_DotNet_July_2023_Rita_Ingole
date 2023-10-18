@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>RAPID TYPING GAMING</title>
+    <style>
+        body {
+            font-family: 'Franklin Gothic Medium';
+            font-size: xxx-large;
+            background-image: url(keybord.png);
+            background-size: cover;
+            background-repeat: no-repeat;
+            text-align: center;
+            color: white;
+            
+
+    
+        }
+
+        h1 {
+            color: white;
+        }
+
+        #word-container {
+            font-size: 30px;
+            margin-top: 50px;
+        }
+
+        #input-box {
+            font-size: 20px;
+            margin-top: 30px;
+            padding: 10px;
+            width: 300px;
+            text-align: center;
+        }
+
+        #result {
+            font-size: 28px;
+            margin-top: 20px;
+            color: black;
+        }
+
+        #start-button {
+            font-family: 'Franklin Gothic Medium';
+            width:60px;
+            padding: 15px;
+            color: black;
+            background-color: blue;
+            cursor: pointer; /* Add cursor pointer to indicate it's clickable */
+        }
+    </style>
+</head>
+<body>
+
+<h1>Rapid Typing Application</h1>
+<marquee behavior="alternate"></marquee>
+
+<div id="word-container"></div>
+
+<input type="text" id="input-box">
+<div id="result"></div>
+
+<!-- Add an event listener to the Start button -->
+<button id="start-button" onclick="startGame()">Start</button>
+
+<script>
+    const words = ["apple", "banana", "cherry", "date", "elderberry", "fig", "grape", "honeydew", "kiwi", "lemon"];
+    let currentWordIndex = 0;
+    let startTime, endTime;
+
+    function startGame() {
+        currentWordIndex = 0;
+        displayWord();
+        document.getElementById("input-box").value = "";
+        document.getElementById("input-box").disabled = false;
+        document.getElementById("result").innerText = "";
+        startTime = new Date().getTime();
+        document.getElementById("start-button").disabled = true; // Disable the Start button after starting.
+    }
+
+    function displayWord() {
+        if (currentWordIndex < words.length) {
+            document.getElementById("word-container").innerText = words[currentWordIndex];
+        } else {
+            endGame();
+        }
+    }
+
+    function checkWord() {
+        const inputBox = document.getElementById("input-box");
+        const typedWord = inputBox.value.trim().toLowerCase();
+        const currentWord = words[currentWordIndex].toLowerCase();
+
+        if (typedWord === currentWord) {
+            currentWordIndex++;
+            inputBox.value = "";
+            displayWord();
+        }
+    }
+
+    function endGame() {
+        endTime = new Date().getTime();
+        const totalTime = (endTime - startTime) / 1000;
+        const wpm = (words.length / totalTime) * 60;
+
+        document.getElementById("result").innerText = `Game Over! Your WPM: ${wpm.toFixed(2)}`;
+        document.getElementById("input-box").disabled = true;
+    }
+
+    document.getElementById("input-box").addEventListener("input", checkWord);
+</script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\reverseprintbyC#\bin\Debug\reverseprintbyC#.exe.config
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\reverseprintbyC#\bin\Debug\reverseprintbyC#.exe
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\reverseprintbyC#\bin\Debug\reverseprintbyC#.pdb
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\reverseprintbyC#\obj\Debug\reverseprintbyC#.csproj.AssemblyReference.cache
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\reverseprintbyC#\obj\Debug\reverseprintbyC#.csproj.SuggestedBindingRedirects.cache
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\reverseprintbyC#\obj\Debug\reverseprintbyC#.csproj.CoreCompileInputs.cache
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\reverseprintbyC#\obj\Debug\reverseprintbyC#.exe
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\reverseprintbyC#\obj\Debug\reverseprintbyC#.pdb

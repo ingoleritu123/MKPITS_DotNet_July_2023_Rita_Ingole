@@ -1,0 +1,56 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Employee Bonus Calculator</title>
+  <script>
+    function display() {
+      var emp_name = document.getElementById("t1").value;
+      var des = document.getElementById("t2").value;
+      var sal = parseFloat(document.getElementById("t3").value);
+      var result;
+
+      switch (des.toLowerCase()) {
+        case "manager":
+          result = "Bonus = 5000";
+          break;
+
+        case "clerk":
+          result = "Bonus = 2000";
+          break;
+
+        case "peon":
+          result = "Bonus = 1000";
+          break;
+
+        default:
+          result = "Invalid Designation.";
+      }
+
+      document.getElementById("employee-name").innerHTML = "Employee Name = " + emp_name + "<br>";
+      document.getElementById("designation").innerHTML = "Designation = " + des + "<br>";
+      document.getElementById("basic-salary").innerHTML = "Basic Salary = " + sal + "<br>";
+      document.getElementById("result").innerHTML = "Details = " + result;
+    }
+  </script>
+</head>
+<body>
+  <h1 align="center">MKPIT SOLUTIONS</h1>
+  <hr>
+  <center>
+    <form name="f1" style="width: 75%;">
+      <fieldset>
+        <legend>Employee Details</legend>
+        Enter Employee Name: <input type="text" id="t1" /><br><br>
+        Enter Your Designation: <input type="text" id="t2" /><br><br>
+        Enter Basic Salary: <input type="text" id="t3" /><br><br>
+        <input type="button" value="OK" onclick="display();" /><br><br>
+        <span id="employee-name"></span><br>
+        <span id="designation"></span><br>
+        <span id="basic-salary"></span><br>
+        <span id="result"></span>
+      </fieldset>
+    </form>
+  </center>
+</body>
+</h

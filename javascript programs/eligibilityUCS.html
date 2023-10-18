@@ -1,0 +1,36 @@
+
+<html>
+<head>
+    <title>Eligibility Check</title>
+    <style>
+        h1 {
+            font-family: 'Franklin Gothic Medium';
+        }
+    </style>
+</head>
+<body>
+    <h1>Eligibility Check</h1>
+    <form name="f1">
+        Enter Your Age: <input type="text" id="t1" /><br><br>
+        <input type="button" value="Check" onclick="check();" /><br><br>
+        <span id="result">--</span>
+    </form>
+
+    <script>
+        function check() {
+            var age = parseInt(document.getElementById("t1").value);
+
+        
+                if (age >= 18) 
+                {
+                    document.getElementById("result").innerHTML = "Congratulations You are Eligible!!";
+                } 
+                else
+                 {
+                    document.getElementById("result").innerHTML = "Sorry!!! You are not Eligible for vote.";
+                }
+    
+        }
+    </script>
+</body>
+</html>

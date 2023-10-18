@@ -1,0 +1,8 @@
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\CheigghtbtC#\bin\Debug\CheigghtbtC#.exe.config
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\CheigghtbtC#\bin\Debug\CheigghtbtC#.exe
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\CheigghtbtC#\bin\Debug\CheigghtbtC#.pdb
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\CheigghtbtC#\obj\Debug\CheigghtbtC#.csproj.AssemblyReference.cache
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\CheigghtbtC#\obj\Debug\CheigghtbtC#.csproj.SuggestedBindingRedirects.cache
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\CheigghtbtC#\obj\Debug\CheigghtbtC#.csproj.CoreCompileInputs.cache
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\CheigghtbtC#\obj\Debug\CheigghtbtC#.exe
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\CheigghtbtC#\obj\Debug\CheigghtbtC#.pdb

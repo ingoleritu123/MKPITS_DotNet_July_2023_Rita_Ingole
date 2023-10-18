@@ -1,0 +1,19 @@
+<html>
+    <script language="javascript">
+        function area()
+        {
+            var len=document.getElementById("t1").value;
+            var brea=document.getElementById("t2").value;
+            var ans=len*brea;
+            document.getElementById("result").innerHTML="area of rectangle =" + ans;
+
+        }
+    </script>
+    <form name="f1">
+        Enter Length : <input type="text" id="t1"/><br><br>
+        Enter Breadth : <input type="text" id="t2"/><br><br>
+        <input type="button" value="area" onclick="area();"/><br><br>
+        <span id="result">--</span>
+
+    </form>
+</html>

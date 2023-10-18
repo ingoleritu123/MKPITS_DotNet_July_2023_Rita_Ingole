@@ -1,0 +1,8 @@
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\divof2nosinC#\obj\Debug\divof2nosinC#.csproj.AssemblyReference.cache
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\divof2nosinC#\obj\Debug\divof2nosinC#.csproj.SuggestedBindingRedirects.cache
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\divof2nosinC#\obj\Debug\divof2nosinC#.csproj.CoreCompileInputs.cache
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\divof2nosinC#\bin\Debug\divof2nosinC#.exe.config
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\divof2nosinC#\bin\Debug\divof2nosinC#.exe
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\divof2nosinC#\bin\Debug\divof2nosinC#.pdb
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\divof2nosinC#\obj\Debug\divof2nosinC#.exe
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\divof2nosinC#\obj\Debug\divof2nosinC#.pdb

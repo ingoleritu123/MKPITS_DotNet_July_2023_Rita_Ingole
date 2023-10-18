@@ -1,0 +1,59 @@
+<html>
+    <head>
+       <style>
+        form{
+            font-family: 'Franklin Gothic Medium';
+        }
+       </style>
+
+    </head>
+    <body>  
+    <form name="f1">
+        Enter Details :<br><br>
+        Enter username : <input type="text" id="t1"/><span id="u1" style="color: red;">*</span><br><br>
+        Enter password : <input type="text" id="t2"/><span id="u2" style="color: red;">*</span><br><br>
+        <input type="button" value="OK" onclick="check();"/><br><br>
+        <span id="result">--</span>
+        
+    </form>
+    <script language="javascript">
+        function check()
+        {
+            var u=document.getElementById("t1").value;
+            var p=document.getElementById("t2").value;
+            if(u=="" && p=="")
+            {
+                document.getElementById("u1").innerHTML="Please enter a Username!!";
+                document.getElementById("u2").innerHTML="Please enter a Password!!";
+
+            }
+            else if(u=="")
+            {
+                document.getElementById("u1").innerHTML="Please enter a Username!!";
+                document.getElementById("u2").innerHTML="";
+            }
+            else if(p=="")
+            {
+                document.getElementById("u2").innerHTML="Please enter a Password!!";
+                document.getElementById("u1").innerHTML="";
+            }
+            else
+             { 
+                document.getElementById("u1").innerHTML="";
+                document.getElementById("u2").innerHTML="";
+             
+
+            if(u=="admin" && p=="admin")
+                {
+                    document.getElementById("result").innerHTML="login successful!!";
+                }
+                else
+                {
+                    document.getElementById("result").innerHTML="invalid credantials!!";
+                }
+            }
+        }
+
+    </script>
+    </body>
+</html>

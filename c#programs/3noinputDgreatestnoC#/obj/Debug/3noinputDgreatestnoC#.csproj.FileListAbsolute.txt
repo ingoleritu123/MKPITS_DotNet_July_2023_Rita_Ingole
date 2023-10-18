@@ -1,0 +1,8 @@
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\3noinputDgreatestnoC#\bin\Debug\3noinputDgreatestnoC#.exe.config
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\3noinputDgreatestnoC#\bin\Debug\3noinputDgreatestnoC#.exe
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\3noinputDgreatestnoC#\bin\Debug\3noinputDgreatestnoC#.pdb
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\3noinputDgreatestnoC#\obj\Debug\3noinputDgreatestnoC#.csproj.AssemblyReference.cache
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\3noinputDgreatestnoC#\obj\Debug\3noinputDgreatestnoC#.csproj.SuggestedBindingRedirects.cache
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\3noinputDgreatestnoC#\obj\Debug\3noinputDgreatestnoC#.csproj.CoreCompileInputs.cache
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\3noinputDgreatestnoC#\obj\Debug\3noinputDgreatestnoC#.exe
+C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\3noinputDgreatestnoC#\obj\Debug\3noinputDgreatestnoC#.pdb
