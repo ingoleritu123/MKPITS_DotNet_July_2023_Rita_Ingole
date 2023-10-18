@@ -1,8 +1,0 @@
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\eligibilitybyC#\bin\Debug\eligibilitybyC#.exe.config
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\eligibilitybyC#\bin\Debug\eligibilitybyC#.exe
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\eligibilitybyC#\bin\Debug\eligibilitybyC#.pdb
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\eligibilitybyC#\obj\Debug\eligibilitybyC#.csproj.AssemblyReference.cache
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\eligibilitybyC#\obj\Debug\eligibilitybyC#.csproj.SuggestedBindingRedirects.cache
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\eligibilitybyC#\obj\Debug\eligibilitybyC#.csproj.CoreCompileInputs.cache
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\eligibilitybyC#\obj\Debug\eligibilitybyC#.exe
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\eligibilitybyC#\obj\Debug\eligibilitybyC#.pdb

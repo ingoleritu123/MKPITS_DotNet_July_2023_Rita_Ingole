@@ -1,8 +1,0 @@
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\except3subM&PbyC#\bin\Debug\except3subM&PbyC#.exe.config
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\except3subM&PbyC#\bin\Debug\except3subM&PbyC#.exe
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\except3subM&PbyC#\bin\Debug\except3subM&PbyC#.pdb
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\except3subM&PbyC#\obj\Debug\except3subM&PbyC#.csproj.AssemblyReference.cache
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\except3subM&PbyC#\obj\Debug\except3subM&PbyC#.csproj.SuggestedBindingRedirects.cache
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\except3subM&PbyC#\obj\Debug\except3subM&PbyC#.csproj.CoreCompileInputs.cache
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\except3subM&PbyC#\obj\Debug\except3subM&PbyC#.exe
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\except3subM&PbyC#\obj\Debug\except3subM&PbyC#.pdb

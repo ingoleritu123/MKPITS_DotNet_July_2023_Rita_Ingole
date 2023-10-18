@@ -1,8 +1,0 @@
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\checkequalnobyC#\obj\Debug\checkequalnobyC#.csproj.AssemblyReference.cache
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\checkequalnobyC#\obj\Debug\checkequalnobyC#.csproj.SuggestedBindingRedirects.cache
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\checkequalnobyC#\obj\Debug\checkequalnobyC#.csproj.CoreCompileInputs.cache
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\checkequalnobyC#\bin\Debug\checkequalnobyC#.exe.config
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\checkequalnobyC#\bin\Debug\checkequalnobyC#.exe
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\checkequalnobyC#\bin\Debug\checkequalnobyC#.pdb
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\checkequalnobyC#\obj\Debug\checkequalnobyC#.exe
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\checkequalnobyC#\obj\Debug\checkequalnobyC#.pdb

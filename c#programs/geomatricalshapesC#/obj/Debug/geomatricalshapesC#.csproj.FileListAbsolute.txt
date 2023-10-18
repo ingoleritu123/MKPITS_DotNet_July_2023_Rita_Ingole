@@ -1,8 +1,0 @@
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\geomatricalshapesC#\bin\Debug\geomatricalshapesC#.exe.config
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\geomatricalshapesC#\bin\Debug\geomatricalshapesC#.exe
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\geomatricalshapesC#\bin\Debug\geomatricalshapesC#.pdb
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\geomatricalshapesC#\obj\Debug\geomatricalshapesC#.csproj.AssemblyReference.cache
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\geomatricalshapesC#\obj\Debug\geomatricalshapesC#.csproj.SuggestedBindingRedirects.cache
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\geomatricalshapesC#\obj\Debug\geomatricalshapesC#.csproj.CoreCompileInputs.cache
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\geomatricalshapesC#\obj\Debug\geomatricalshapesC#.exe
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\geomatricalshapesC#\obj\Debug\geomatricalshapesC#.pdb

@@ -1,8 +1,0 @@
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\print hello\bin\Debug\print hello.exe.config
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\print hello\bin\Debug\print hello.exe
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\print hello\bin\Debug\print hello.pdb
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\print hello\obj\Debug\print hello.csproj.AssemblyReference.cache
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\print hello\obj\Debug\print hello.csproj.SuggestedBindingRedirects.cache
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\print hello\obj\Debug\print hello.csproj.CoreCompileInputs.cache
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\print hello\obj\Debug\print hello.exe
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\print hello\obj\Debug\print hello.pdb

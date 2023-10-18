@@ -1,8 +1,0 @@
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\volwels&conbyswitch\bin\Debug\volwels&conbyswitch.exe.config
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\volwels&conbyswitch\bin\Debug\volwels&conbyswitch.exe
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\volwels&conbyswitch\bin\Debug\volwels&conbyswitch.pdb
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\volwels&conbyswitch\obj\Debug\volwels&conbyswitch.csproj.AssemblyReference.cache
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\volwels&conbyswitch\obj\Debug\volwels&conbyswitch.csproj.SuggestedBindingRedirects.cache
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\volwels&conbyswitch\obj\Debug\volwels&conbyswitch.csproj.CoreCompileInputs.cache
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\volwels&conbyswitch\obj\Debug\volwels&conbyswitch.exe
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\volwels&conbyswitch\obj\Debug\volwels&conbyswitch.pdb

@@ -1,8 +1,0 @@
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\printgreatestnoinC#\obj\Debug\printgreatestnoinC#.csproj.AssemblyReference.cache
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\printgreatestnoinC#\obj\Debug\printgreatestnoinC#.csproj.SuggestedBindingRedirects.cache
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\printgreatestnoinC#\obj\Debug\printgreatestnoinC#.csproj.CoreCompileInputs.cache
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\printgreatestnoinC#\bin\Debug\printgreatestnoinC#.exe.config
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\printgreatestnoinC#\bin\Debug\printgreatestnoinC#.exe
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\printgreatestnoinC#\bin\Debug\printgreatestnoinC#.pdb
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\printgreatestnoinC#\obj\Debug\printgreatestnoinC#.exe
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\printgreatestnoinC#\obj\Debug\printgreatestnoinC#.pdb

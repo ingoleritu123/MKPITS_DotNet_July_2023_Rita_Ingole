@@ -1,8 +1,0 @@
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\tableofNbyC#\obj\Debug\tableofNbyC#.csproj.AssemblyReference.cache
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\tableofNbyC#\obj\Debug\tableofNbyC#.csproj.SuggestedBindingRedirects.cache
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\tableofNbyC#\obj\Debug\tableofNbyC#.csproj.CoreCompileInputs.cache
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\tableofNbyC#\bin\Debug\tableofNbyC#.exe.config
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\tableofNbyC#\bin\Debug\tableofNbyC#.exe
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\tableofNbyC#\bin\Debug\tableofNbyC#.pdb
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\tableofNbyC#\obj\Debug\tableofNbyC#.exe
-C:\MKPITS\MKPITS_DotNet_July_2023_Rita_Ingole\c#programs\tableofNbyC#\obj\Debug\tableofNbyC#.pdb
